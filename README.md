@@ -1,5 +1,6 @@
-## Hi there 
+
 <h1 align="center">Hello, I am Esaú Sánchez! 👋</h1>
+<img src="Banner.png">
 <!--
 **Esbisans/Esbisans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
